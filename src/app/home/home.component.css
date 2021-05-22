@@ -1,0 +1,17 @@
+span{
+    font-weight:bold;
+    background:blanchedalmond;
+    padding: .3em .7em;
+    user-select: none;
+}
+.play-container{
+    padding:3em;
+    border:1px solid gray;
+    margin-bottom: 1em;
+}
+
+.active{
+    background-color:rgb(25, 208, 240)
+}
+.notactive{
+ background-color:rgb(236, 236, 140)}
